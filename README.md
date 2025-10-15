@@ -89,7 +89,7 @@ me.say_hi()
 
 | 🎓 Education | 💼 Experience | 🚀 Projects |
 |:---:|:---:|:---:|
-| Computer Science Student | Hackathon Participant | Data Analysis Systems |
+| Computer Science Student | Hackathon Enthusiast | Data Analysis Systems |
 | Data Science Focus | Research Contributor | ML Models & Tools |
 | Full-Stack Training | Project-Based Learning | Real-World Applications |
 
@@ -104,16 +104,6 @@ me.say_hi()
 - 🧠 **Deep Learning** frameworks (TensorFlow, PyTorch)
 - ☁️ **Cloud Computing** for scalable data solutions
 - 🔍 **Natural Language Processing** applications
-
----
-
-### 💡 Featured Projects
-
-<div align="center">
-
-[![Metro Manila University Funding 2024](https://github-readme-stats.vercel.app/api/pin/?username=snsnzjkt&repo=Metro-Manila-University-Funding-2024&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9)](https://github.com/snsnzjkt/Metro-Manila-University-Funding-2024)
-
-</div>
 
 ---
 
