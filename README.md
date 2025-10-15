@@ -122,10 +122,8 @@ me.say_hi()
 <div align="center">
   
   [![GitHub](https://img.shields.io/badge/GitHub-snsnzjkt-181717?style=for-the-badge&logo=github)](https://github.com/snsnzjkt)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-  [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edrineesguerra/)
+  [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edrineesguerra4@gmail.com)  
   <br/>
   
   **💬 Open to collaborations, internships, and exciting data projects!**
@@ -136,21 +134,8 @@ me.say_hi()
 
 ---
 
-### 💭 Random Dev Quote
-
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
   
   ### ⭐️ From [snsnzjkt](https://github.com/snsnzjkt) with 💜
-  
-  *"Data is the new oil, but insights are the new gold"* 🏆
-  
 </div>
