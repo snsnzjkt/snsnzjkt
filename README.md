@@ -20,8 +20,6 @@
 class EdrineFrances:
     def __init__(self):
         self.username = "snsnzjkt"
-        self.role = "Aspiring Data Scientist"
-        self.education = "Computer Science Undergraduate"
         self.current_focus = ["Machine Learning", "Data Analysis", "Full-Stack Dev"]
         self.passion = "Turning raw data into actionable insights"
         self.learning_style = ["Project-based", "Hackathons", "Research"]
