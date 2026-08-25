@@ -129,19 +129,3 @@ alternative.
 </table>
 
 <sub>→ [All repositories](https://github.com/snsnzjkt?tab=repositories)</sub>
-
-<br>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="20"/> &nbsp;Activity
-
-<div>
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=snsnzjkt&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=8B5CF6&text_color=8B949E&hide_title=true&include_all_commits=true&hide=issues" />
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snsnzjkt&layout=compact&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=8B949E&langs_count=6" />
-</div>
-
-<br>
-
----
-
-<sub>Open to automation builds, AI agent work, and full-stack contracts &nbsp;·&nbsp;
-<a href="mailto:edrineesguerra4@gmail.com">edrineesguerra4@gmail.com</a></sub>
